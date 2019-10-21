@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.test</groupId>
 	<artifactId>maven-release-plugin-example</artifactId>
-	<version>0.2-SNAPSHOT</version>
+	<version>0.1</version>
 	<scm>
 		<url>https://github.com/arpitaggarwal/maven-release-plugin-example</url>
 		<connection>scm:git:https://github.com/arpitaggarwal/maven-release-plugin-example.git</connection>
